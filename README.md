@@ -1,2 +1,2 @@
-# Telecom-X-Parte-2-Predicci-n-de-Cancelaci-n-
-Modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
+# Predicción de Cancelación de Clientes (Churn) en Telecom X
+Este proyecto tiene como objetivo predecir la cancelación de clientes (churn) en Telecom X utilizando técnicas de análisis de datos y aprendizaje automático. Se exploran los datos, se identifican factores clave que influyen en la evasión y se desarrollan modelos predictivos para anticipar qué clientes son más propensos a irse. El análisis de los modelos y la importancia de las características obtenidas permiten proponer estrategias de retención de clientes dirigidas y efectivas.
